@@ -38,7 +38,7 @@ function wpt_style_header() {
     <style type="text/css">
 
     .site-title a {
-      color: <?php echo esc_attr( $text_color ); ?>;
+      color: #<?php echo esc_attr( $text_color ); ?>;
     }
 
     <?php if( display_header_text() != true ): ?>
