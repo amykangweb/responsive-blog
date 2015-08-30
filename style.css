@@ -1,0 +1,17 @@
+/*
+Theme Name: Reponsive Blog
+Theme URI: http://localhost:3000;
+Author: Amy Kang
+Author URI: http://amy-kang.com;
+Description: A simple responsive WordPress blog
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: responsive-blog
+
+*/
+
+div.main-container img {
+  width: 100%;
+  height: 200px;
+}
