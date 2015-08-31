@@ -11,6 +11,10 @@ Text Domain: responsive-blog
 
 */
 
+body {
+  background: #F1F1E9;
+}
+
 div.main-container img {
   width: 100%;
   height: 200px;
